@@ -49,7 +49,7 @@ Más allá de presentar información, una buena landing page debe transmitir la 
 
 Desarrollador de software | Ingeniería de Sistemas
 
-- GitHub: https://github.com/JohnnyVL44
+- GitHub: [JohnnyVL44](https://github.com/JohnnyVL44)
 - LinkedIn: [Mi perfil profesional](https://www.linkedin.com/in/johnny-velásquez-lezama-70bba2345/)
 
 ---
