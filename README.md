@@ -26,13 +26,13 @@ No se requiere ninguna instalación especial para visualizar el proyecto.
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/JohnnyVL44/Coffe_Shop-landingPage.git
+   git clone [URL del Proyecto](https://github.com/JohnnyVL44/Coffe_Shop-landingPage.git)
    ```
 
 2. Accede a la carpeta del proyecto:
 
    ```bash
-   cd landing-page-cafeteria
+   cd Coffe_Shop-landingPage
    ```
 
 3. Abre el archivo `index.html` en tu navegador o utiliza la extensión **Live Server** de Visual Studio Code para ejecutarlo en un servidor local.
