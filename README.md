@@ -56,4 +56,4 @@ Desarrollador de software | Ingeniería de Sistemas
 
 *Gracias por visitar este proyecto. ¡Espero que disfrutes explorándolo tanto como yo disfruté desarrollándolo!* 
 
-GitHub Pages deployment refresh.
+GitHub Pages deployment refresh. 2
