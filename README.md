@@ -26,7 +26,7 @@ No se requiere ninguna instalación especial para visualizar el proyecto.
 1. Clona este repositorio:
 
    ```bash
-   git clone URL_DEL_REPOSITORIO
+   git clone https://github.com/JohnnyVL44/Coffe_Shop-landingPage.git
    ```
 
 2. Accede a la carpeta del proyecto:
